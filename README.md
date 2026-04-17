@@ -1,6 +1,6 @@
-# 📄 HR Resume Scanner (Mini ATS System)
+#  HR Resume Scanner (Mini ATS System)
 
-## 🚀 Project Overview
+## Project Overview
 
 This project is a **Resume Screening System** that compares a candidate's resume with a job description and determines their eligibility for the role.
 
@@ -8,7 +8,7 @@ It works like a simplified **Applicant Tracking System (ATS)** used by companies
 
 ---
 
-## 🎯 Features
+## Features
 
 * Extracts and processes text from resume and job description
 * Identifies key skills from both inputs
@@ -22,7 +22,7 @@ It works like a simplified **Applicant Tracking System (ATS)** used by companies
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Text Preprocessing**
 
@@ -46,7 +46,7 @@ It works like a simplified **Applicant Tracking System (ATS)** used by companies
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Streamlit (for GUI)
@@ -55,7 +55,7 @@ It works like a simplified **Applicant Tracking System (ATS)** used by companies
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -72,7 +72,7 @@ pip install streamlit scikit-learn pandas
 
 ---
 
-## ▶️ Running the App
+## Running the App
 
 ```bash
 streamlit run your_file_name.py
@@ -86,7 +86,7 @@ http://localhost:8501
 
 ---
 
-## 📊 Usage
+## Usage
 
 1. Paste resume text
 2. Paste job description
@@ -100,7 +100,7 @@ http://localhost:8501
 
 ---
 
-## 🧪 Test Cases
+## Test Cases
 
 The project includes basic test cases to ensure:
 
@@ -110,7 +110,7 @@ The project includes basic test cases to ensure:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Upload PDF resumes
 * Advanced NLP (Named Entity Recognition)
@@ -120,18 +120,18 @@ The project includes basic test cases to ensure:
 
 ---
 
-## 🙌 Author
+## Author
 
 **Karthika K Pillai**
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 This project is built as a learning implementation of ATS systems used in recruitment.
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes.
